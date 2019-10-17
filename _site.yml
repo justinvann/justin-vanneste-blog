@@ -10,7 +10,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/justinvann/justin-vanneste-blog/
+      href: https://github.com/justinvann/justin-vanneste-blog
 base_url: https://justinvann.github.io/justin-vanneste-blog/
 collections:
     posts:
